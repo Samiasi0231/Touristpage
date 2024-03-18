@@ -1,0 +1,19 @@
+.blueBg{
+    width: 100%;
+    height: 30px;
+}
+.seed{
+    height: 130%;
+    width: fit-content;
+    background-color:#ccc;
+  
+}
+#about-form{
+margin-top: 10px;
+}
+.imgmove{
+float: right;
+}
+.amet{
+    margin-top: 10%;
+}
